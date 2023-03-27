@@ -6,6 +6,14 @@
 * [Webpack原理与实践 - 拉钩教育](./BV1fb4y1H7nX)
 
 
+## Plugins
+
+名称|说明|版本|备注
+---|---|---|---
+<https://github.com/jantimon/html-webpack-plugin> | 自动创建 HTML
+
+
 ## Ref
 
 * <https://webpack.js.org/>
+
