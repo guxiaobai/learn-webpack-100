@@ -20,6 +20,11 @@
 * [3-5 使用 plugins 让打包更便捷](./03-05)
 * [3-6 Entry 与 Output 的基础配置](./03-06)
 
+
+### 第4章 Webpack 的高级概念 
+
+* [4-1 Tree Shaking 概念详解](./04-01)
+
 ## Ref
 
 * [https://coding.imooc.com/class/316.html](https://coding.imooc.com/class/316.html)
