@@ -12,6 +12,11 @@
 * [2-4 使用Webpack的配置文件](./02-04)
 * [2-5 浅析 Webpack 打包输出内容](./02-05)
 
+
+### 第3章 Webpack 的核心概念 
+
+* [3-1 什么是 loader](./03-01)
+
 ## Ref
 
 * [https://coding.imooc.com/class/316.html](https://coding.imooc.com/class/316.html)
