@@ -2,4 +2,9 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Mon Mar 27 21:16:47 CST 2023` | -
+`Tue Mar 28 10:50:02 CST 2023` | -
+
+
+## Ref
+
+* <https://webpack.js.org/guides/asset-modules/> - `v5`
