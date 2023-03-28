@@ -22,6 +22,7 @@
 * [3-5 使用 plugins 让打包更便捷](./03-05)
 * [3-6 Entry 与 Output 的基础配置](./03-06)
 * [3-8 使用 WebpackDevServer 提升开发效率](./03-08)
+* [3-9 Hot Module Replacement 热模块更新（1）](./03-09)
 
 
 ### 第4章 Webpack 的高级概念 
