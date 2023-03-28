@@ -28,6 +28,8 @@
 ---|---|---|---
 [`webpack-merge`](https://github.com/survivejs/webpack-merge) | 合并配置文件
 [`webpackbar`](https://github.com/unjs/webpackbar) | 进度条显示
+[`friendly-errors-webpack-plugin`](https://github.com/geowarin/friendly-errors-webpack-plugin) | 错误显示处理
+
 
 ## Ref
 
