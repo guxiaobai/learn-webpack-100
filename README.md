@@ -14,6 +14,12 @@
 [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin) | 自动创建 HTML
 ~~[`clean-webpack-plugin`](https://github.com/johnagan/clean-webpack-plugin)~~ | 清理文件 | v5: [`output.clean`](https://webpack.js.org/configuration/output/#outputclean)
 
+## Optimization
+
+名称|说明|版本|备注
+---|---|---|---
+[`image-minimizer-webpack-plugin`](https://github.com/webpack-contrib/image-minimizer-webpack-plugin/) | 图片压缩
+~~[`image-webpack-loader`](https://github.com/tcoopman/image-webpack-loader)~~ | 图片压缩
 
 ## Misc
 
