@@ -23,6 +23,7 @@
 * [3-6 Entry 与 Output 的基础配置](./03-06)
 * [3-8 使用 WebpackDevServer 提升开发效率](./03-08)
 * [3-9 Hot Module Replacement 热模块更新（1）](./03-09)
+* [3-10 Hot Module Replacement 热模块更新（2）](./03-10)
 
 
 ### 第4章 Webpack 的高级概念 
