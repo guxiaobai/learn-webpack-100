@@ -18,6 +18,7 @@
 
 名称|说明|版本|备注
 ---|---|---|---
+[`terser-webpack-plugin`](https://github.com/webpack-contrib/terser-webpack-plugin) | JS压缩
 [`image-minimizer-webpack-plugin`](https://github.com/webpack-contrib/image-minimizer-webpack-plugin/) | 图片压缩
 ~~[`image-webpack-loader`](https://github.com/tcoopman/image-webpack-loader)~~ | 图片压缩
 
