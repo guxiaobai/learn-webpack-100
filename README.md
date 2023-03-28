@@ -6,12 +6,20 @@
 * [Webpack原理与实践 - 拉钩教育](./BV1fb4y1H7nX)
 
 
+
 ## Plugins
 
 名称|说明|版本|备注
 ---|---|---|---
-<https://github.com/jantimon/html-webpack-plugin> | 自动创建 HTML
-<https://github.com/johnagan/clean-webpack-plugin> | 清理文件 | v5: [`output.clean`](https://webpack.js.org/configuration/output/#outputclean)
+[`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin) | 自动创建 HTML
+~~[`clean-webpack-plugin`](https://github.com/johnagan/clean-webpack-plugin)~~ | 清理文件 | v5: [`output.clean`](https://webpack.js.org/configuration/output/#outputclean)
+
+
+## Misc
+
+名称|说明|版本|备注
+---|---|---|---
+[`webpack-merge`](https://github.com/survivejs/webpack-merge) | 合并配置文件
 
 ## Ref
 
