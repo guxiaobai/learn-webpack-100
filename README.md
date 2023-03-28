@@ -20,6 +20,7 @@
 名称|说明|版本|备注
 ---|---|---|---
 [`webpack-merge`](https://github.com/survivejs/webpack-merge) | 合并配置文件
+[`webpackbar`](https://github.com/unjs/webpackbar) | 进度条显示
 
 ## Ref
 
