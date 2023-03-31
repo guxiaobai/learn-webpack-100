@@ -24,6 +24,7 @@
 * [3-8 使用 WebpackDevServer 提升开发效率](./03-08)
 * [3-9 Hot Module Replacement 热模块更新（1）](./03-09)
 * [3-10 Hot Module Replacement 热模块更新（2）](./03-10)
+* [3-11 使用 Babel 处理 ES6 语法（1）](./03-11)
 
 
 ### 第4章 Webpack 的高级概念 
