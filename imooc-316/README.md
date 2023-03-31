@@ -25,6 +25,7 @@
 * [3-9 Hot Module Replacement 热模块更新（1）](./03-09)
 * [3-10 Hot Module Replacement 热模块更新（2）](./03-10)
 * [3-11 使用 Babel 处理 ES6 语法（1）](./03-11)
+* [3-13 Webpack 实现对React框架代码的打包](./03-12)
 
 
 ### 第4章 Webpack 的高级概念 
