@@ -2,7 +2,6 @@
 
 ### 学习资料
 
-* [316 从基础到实战 手把手带你掌握新版Webpack4.0 - 慕课网](./imooc-316)
 * [Webpack原理与实践 - 拉钩教育](./BV1fb4y1H7nX)
 
 
@@ -29,9 +28,4 @@
 [`webpack-merge`](https://github.com/survivejs/webpack-merge) | 合并配置文件
 [`webpackbar`](https://github.com/unjs/webpackbar) | 进度条显示
 [`friendly-errors-webpack-plugin`](https://github.com/geowarin/friendly-errors-webpack-plugin) | 错误显示处理
-
-
-## Ref
-
-* <https://webpack.js.org/>
 
